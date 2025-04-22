@@ -18,7 +18,7 @@
 
 ## 🚀 Demo
 
-👉 [Live Demo](http://localhost:5147)
+👉 [Live Demo](https://smartdoc-ai.onrender.com/)
 
 ---
 
